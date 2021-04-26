@@ -9,6 +9,6 @@
  
  The <strong>simple</strong> page changes into some previously chosen color values, while <strong>Hex</strong> generates random hex values which will appear on the background. 💻 
  
- ##✏ Demo
+ ## ✏ Demo
  
  ![Color Flipper Demo](demo/colorFlipper.gif)
