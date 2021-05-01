@@ -1,7 +1,7 @@
 # Color Flipper
  Creating a color flipper with JavaScript. Based on John Smilga's freeCodeCamp project
  
- The project consists in two pages: 
+ The project consists on two pages: 
  <ul>
   <li>Simple</li>
   <li>Hex</li>
